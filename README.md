@@ -37,14 +37,7 @@ pip install flask
 ```
 ## ▶️ Ejecución del proyecto
 
-1. 📁 Abrir la carpeta del proyecto (donde está `app.py`)
-
-2. 🖱️ Hacer clic derecho en la carpeta
-
-3. 💻 Seleccionar:
-   **Open in Integrated Terminal**
-
-4. 🧪 Ejecutar el siguiente comando:
+1. 🧪 Ejecutar el siguiente comando:
 
 ```bash
 python app.py

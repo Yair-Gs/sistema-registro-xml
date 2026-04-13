@@ -44,7 +44,7 @@ python app.py
 ```
 ## 🌐 Abrir en el navegador
 
-Una vez que el servidor esté en ejecución, abre tu navegador web y entra a la siguiente dirección:
+Una vez que el servidor esté en ejecución, tienes que entrar a esa dirección:
 
 http://127.0.0.1:5000/
 
